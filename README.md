@@ -30,14 +30,8 @@ Este script automatiza a instalação de várias ferramentas de recon.
 Clone o repositório ou baixe o script diretamente para o seu sistema:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-```
-
-Ou baixe diretamente:
-
-```bash
-curl -O https://link-para-o-script
+git clone https://github.com/andersonmv/Tools_BugBounty.git
+cd Tools_BugBounty
 ```
 
 ### Passo 2: Torne o script executável
